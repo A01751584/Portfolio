@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6bf2fb25.css",
-    "main.js": "/Portfolio/static/js/main.5515bd84.js",
+    "main.css": "/Portfolio/static/css/main.4620062e.css",
+    "main.js": "/Portfolio/static/js/main.00bd036c.js",
+    "static/media/Lateral.png": "/Portfolio/static/media/Lateral.09b8bc14726c579c260c.png",
+    "static/media/Aerea.png": "/Portfolio/static/media/Aerea.bdabe50eca9c7fde74db.png",
+    "static/media/Japon.jpg": "/Portfolio/static/media/Japon.9981f074e06e6605c096.jpg",
+    "static/media/Menu.jpg": "/Portfolio/static/media/Menu.f933426eabcabd56ea2b.jpg",
     "static/media/One.png": "/Portfolio/static/media/One.9322363750f77e5d49d5.png",
+    "static/media/Incendio.jpg": "/Portfolio/static/media/Incendio.7a8dd2fb59548dc206a2.jpg",
+    "static/media/Bienvenido.jpg": "/Portfolio/static/media/Bienvenido.0c80edbaee1cee27ca7a.jpg",
     "static/media/Tec.png": "/Portfolio/static/media/Tec.cc657ce92081a640bf96.png",
     "index.html": "/Portfolio/index.html",
-    "main.6bf2fb25.css.map": "/Portfolio/static/css/main.6bf2fb25.css.map",
-    "main.5515bd84.js.map": "/Portfolio/static/js/main.5515bd84.js.map"
+    "main.4620062e.css.map": "/Portfolio/static/css/main.4620062e.css.map",
+    "main.00bd036c.js.map": "/Portfolio/static/js/main.00bd036c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bf2fb25.css",
-    "static/js/main.5515bd84.js"
+    "static/css/main.4620062e.css",
+    "static/js/main.00bd036c.js"
   ]
 }
