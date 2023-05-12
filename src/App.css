@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  background-color: plum;
+}
+
+.info{
+  background-color: plum;
+  text-align: center;
+}
+
+.resumen {
+    background-color: rgb(236, 230, 236);
+    display: flex;
+    margin: 20px;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.yo{
+  font-weight: 500;
+  max-width: 600px;
+}
+.aptitudes{
+  font-weight: 500;
+  max-width: 600px;
+}
+.habilidades{
+  font-weight: 500;
+  max-width: 600px;
+}
+
+.extras {
+  background-color: rgb(236, 230, 236);
+  display: flex;
+  margin: 20px;
+  justify-content: space-evenly;
+  padding: 20px;
+}
